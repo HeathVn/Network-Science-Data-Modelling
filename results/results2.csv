@@ -1,4 +1,4 @@
-﻿pos.name,ply.name,wr.name,toInteger(ply.rating),toInteger(ply.contract_expiry)
+﻿club_position,name,work_rate,rating,contract_expiry
 Sub,Daniele Rugani,Low / Medium,80,2021
 Sub,Dani Alves,High / Low,84,2018
 Sub,Mario Lemina,Medium / Medium,77,2020
