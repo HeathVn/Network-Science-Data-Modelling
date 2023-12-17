@@ -20,4 +20,12 @@ Who is the oldest high rating player for a particular club with a contract that 
 Who is the oldest high rating player for a particular position with a contract that will soon expire?
 What is the work rate classification of a particular player with a soon to expire contract on a given team?
 Which players within the same Rating Group are most similar?
-Rating Group is either High (player ratings >= 85 ), Medium(84 >= player ratings >= 61 ) or Low (player ratings <= 60) *
+Rating Group is either High (player ratings >= 85 ), Medium(84 >= player ratings >= 61 ) or Low (player ratings <= 60) 
+
+
+### Languages/Tools used:
+
+. Python
+. Jupyter Notebook
+. Neo4j
+
